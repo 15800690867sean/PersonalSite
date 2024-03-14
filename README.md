@@ -4,7 +4,9 @@ The personal website of Sean Tang, displaying the resume, self-introduction and 
 
 # Run Project
 ### 1. Clone the project
-
+```shell
+git clone ssh/https link
+```
 
 ### 2. Run the project
 ```shell
@@ -21,4 +23,3 @@ npm run build
 ```shell
 npm run deploy
 ```
-more see: https://javascript.plainenglish.io/deploying-any-app-to-github-pages-1e8e946bf890

@@ -774,6 +774,10 @@ properly.
 /*  1. Clearing
     (http://nicolasgallagher.com/micro-clearfix-hack/
 --------------------------------------------------------------------- */
+.cf {
+   display: flex;
+   align-items: center;
+}
 
 .cf:before,
 .cf:after {

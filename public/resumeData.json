@@ -3,7 +3,7 @@
     "name":"Sean Tang",
     "description":"Use better technology to create better products and shape a better world",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"Hi, I'm Sean, a front-end developer. I have a strong interest in front-end development and have a lot of relevant experience. At the same time, I am constantly learning API development and databases, and have been exploring and practicing full-stack development. I graduated from UNSW's IT major with excellence in 2022, and now live in Sydney, a beautiful city in the southern hemisphere.",
     "contactmessage":"Thank you for your feedback.",
     "email": "tangxiaoensean@gmail.com",
     "phone": "(+61) 0470-593-067",
@@ -14,43 +14,18 @@
       "line2":"City: Sydney",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
+    "website": "https://xiaoen-tang-sean.cc/",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
-        "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/15800690867sean",
         "className":"fa fa-github"
       },
       {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/tangxiaoensean",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
@@ -58,42 +33,54 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
+        "school":"University of New South Wales",
+        "degree":"Master of Information Technology with Excellence",
+        "graduated":"2019 - 2022",
         "description":""
       },
       {
-        "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "school":"Donghua University",
+        "degree":"Bachelor of Information System Management",
+        "graduated":"2015 - 2019",
+        "description":""
+      },
+      {
+        "school":"East China Normal University",
+        "degree":"Bachelor's Degree Minor in Applied Psychology",
+        "graduated":"2017 - 2019",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+        "company":"HelloBike",
+        "title":"Front End Developer",
+        "years":"February 2022 - August 2023",
+        "description":"Cross-Functional Collaboration\n- Collaborated with product design, product management, and software engineering teams in an Agile/Scrum environment to drive business success in efficiency and safety.\n- Conducted comprehensive code reviews for 10+ projects, identifying and rectifying potential issues, resulting in a 40% decrease in bugs and accelerated overall code quality.\n- Streamlined project timelines and ensured on-time delivery by implementing agile methodologies. Achieved a bug rate below 0.2, minimising production delays and security vulnerabilities.\n\nMobile Merchant APP Development (React, Node.js)\n- Led a 5-developer team to build a React-based mobile Merchant APP. Increased work efficiency for merchants by 30% and increased offline sales by 20%.\n- Implemented pre-rendering and caching technology, achieving a first-screen load time of less than 600ms. Surpassed 80% of apps on the market.\n- Employed Node.js to develop RESTful APIs for interface aggregation, optimized the logic related to interface call and reduce the related code by 80%.\n\nWeb System for Merchants (VueJS, micro-frontend)\n- Built a robust web system for merchants using VueJS, the CRM module of which increased sales by more than 170 million RMB.\n- Implemented micro-front-end technology for enhanced modularity, improved development efficiency by nearly 30%.\n\nComponent Library Development (Dumi)\n- Developed and implemented an component library utilising the Dumi front-end framework, resulting in streamlined design consistency and improved development efficiency across 15+ pages.\n- Created over 80 components to enhance system functionality. The reusability of components reduced development manpower by more than 500 hours in total."
+      },
+      {
+        "company":"TikTok",
+        "title":"Front End Developer Intern",
+        "years":"April 2021 - December 2021",
+        "description":"TikTok Mall Team Engagement (Next.js, Redux)\n- Developed and executed React-based front-end projects for the TikTok Mall Team, resulting in a 20% increase in user engagement and a 25% boost in conversion rate.\n- Improved SEO by implementing SRR using Next.js, implemented global state management with Redux.\n\nCollaborative Solution Design and Module Development\n- Collaborated with the server and design teams to devise solutions and develop modules. The on-time completion rate of cooperation projects was 100%.\n- Leveraged browser developer mode and Webpack plugins to monitor and troubleshoot website performance issues.\n- Accelerated user experience and reduced customer support issues by 40% by identifying and rectifying over 50 online bugs.\n\nComponent Library Construction (React)\n- Spearheaded the creation of a scalable component library using React, enabling the team to deliver projects 25% faster and reducing maintenance efforts by 20%.\n- Ensured component stability, utilising the library development solutions across TikTok's core pages, served over 100 million users daily.\n\nJest Automated Unit Testing\n- Orchestrated the successful implementation of Jest automated unit tests for multiple business projects and component libraries, testing for logic, structure, and style.\n- The automated unit tests resulting in a 60% decrease in post-release bugs, establishing a new standard of excellence in product stability.\n- Achieved a code coverage rate exceeding 90%, minimising bugs introduced while deploying new features."
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
+        "name":"Frontend Development (React, Vue, TypeScript)",
         "level":"95%"
       },
       {
-        "name":"Frontend Development (React, Angular)",
+        "name":"Performance Optimization & SEO Optimization",
+        "level":"90%"
+      },
+      {
+        "name":"Automated Testing (Jest)",
         "level":"85%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
+        "name":"Backend Development (API, Database)",
         "level":"80%"
-      },
-      {
-        "name":"Leadership & Management",
-        "level":"75%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -104,46 +91,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
-        "category": "Course",
+        "title":"Next-Event",
+        "description": "A event browsing website.",
+        "category": "Next",
         "image":"00.png",
         "url":"https://course.cyberlark.com.au/courses/it"
-      },
-      {
-        "title":"Project",
-        "description": "Investment Property Calculator",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
-      },
-      {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
-        "category": "Video",
-        "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
-      },
-      {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
-        "category": "Video",
-        "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
       }
     ]
   }

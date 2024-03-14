@@ -254,7 +254,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 #resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#resume .main-col { padding-right: 10%; white-space: pre-wrap; }
 
 .education, .work {
    margin-bottom: 48px;
@@ -426,7 +426,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin: 18px 0; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
