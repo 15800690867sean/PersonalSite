@@ -1,5 +1,6 @@
-# Cyberlark David Resume Template
-![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
+# Sean Tang Personal Site
+
+The personal website of Sean Tang, displaying the resume, self-introduction and contact.
 
 # Run Project
 ### 1. Clone the project
