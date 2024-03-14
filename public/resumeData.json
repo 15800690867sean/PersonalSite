@@ -1,17 +1,17 @@
 {
   "main": {
-    "name":"David Cyberlark",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "name":"Sean Tang",
+    "description":"Use better technology to create better products and shape a better world",
     "image":"profile.jpg",
     "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "email": "tangxiaoensean@gmail.com",
+    "phone": "(+61) 0470-593-067",
+    "github":"https://github.com/15800690867sean",
+    "project":"https://github.com/15800690867sean",
     "address":{
-      "line1":"Address: 13 Main St",
-      "line2":"City: Brisbane",
+      "line1":"1 grandstand pde, Zetland",
+      "line2":"City: Sydney",
       "line3":"Country: Australia"
     },
     "youtube":{
