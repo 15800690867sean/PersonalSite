@@ -11,6 +11,7 @@ class About extends Component {
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
+    const workright = this.props.data.workright;
 
     return (
       <section id="about">
@@ -45,6 +46,11 @@ class About extends Component {
                   <p>
                     <a href={resumeDownload} className="button">
                       <i className="fa fa-download"></i>Download Resume
+                    </a>
+                  </p>
+                  <p>
+                    <a href={workright} className="button">
+                      <i className="fa fa-download"></i>Right To Work 
                     </a>
                   </p>
                 </div>

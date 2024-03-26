@@ -217,6 +217,8 @@ ul#nav li.current a { color: #fe6928; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
+   width: 70%;
+   text-align: center;
 }
 #about .download .button:hover {
    background: #fff;
@@ -233,7 +235,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: rgb(248, 252, 255);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
